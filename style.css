@@ -1,6 +1,6 @@
 body {
 	font-family:serif;
-	background-color:#A1C6EA;
+	background-color:#D5DFE5;
 }
 
 #tipBody{
@@ -11,7 +11,7 @@ body {
 	margin-right: auto;
 	margin-top: auto;
 	margin-bottom: auto;
-	border:3px solid black;
+	border:3px solid grey;
 	background-color:white;
 	border-radius:12px;
 	box-shadow: 10px 10px 5px grey;
@@ -60,3 +60,4 @@ h1{
 	font-size: 25px;
 	text-align: center;
 }
+
